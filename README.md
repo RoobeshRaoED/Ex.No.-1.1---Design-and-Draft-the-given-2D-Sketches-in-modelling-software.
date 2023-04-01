@@ -43,6 +43,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 ## OUTPUT
 
+![](Ex_1.1%20ROOBESH%20RAO.E.D%20IMG.jpg)
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
